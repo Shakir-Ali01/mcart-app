@@ -1,0 +1,48 @@
+4-5-2024 - regex.test is not a function
+4-5-2024 - regex.test is not a function
+4-5-2024 - regex.test is not a function
+4-5-2024 - regex.test is not a function
+4-5-2024 - regex.test is not a function
+4-5-2024 - reg.test is not a function
+4-5-2024 - reg.test is not a function
+4-5-2024 - regex.test is not a function
+4-5-2024 - UserModel.register is not a function
+4-5-2024 - Parameter "filter" to findOne() must be an object, got BossIshere
+4-5-2024 - User validation failed: mobileNo: Path `mobileNo` is required., username: Path `username` is required., _id: Path `_id` is required.
+4-5-2024 - User validation failed: _id: Path `_id` is required.
+4-5-2024 - generateUserId is not defined
+4-5-2024 - User validation failed: _id: Cast to String failed for value "Promise { <pending> }" at path "_id"
+4-5-2024 - User validation failed: _id: Cast to String failed for value "Promise { <pending> }" at path "_id"
+4-5-2024 - User validation failed: _id: Cast to String failed for value "Promise { <pending> }" at path "_id"
+4-5-2024 - Cannot read properties of null (reading 'username')
+4-5-2024 - E11000 duplicate key error collection: mcart-app.users index: username_1 dup key: { username: "BossIshere" }
+4-5-2024 - E11000 duplicate key error collection: mcart-app.users index: username_1 dup key: { username: "BossIshere" }
+4-5-2024 - E11000 duplicate key error collection: mcart-app.users index: username_1 dup key: { username: "BossIshere" }
+4-5-2024 - E11000 duplicate key error collection: mcart-app.users index: emailId_1 dup key: { emailId: "Boss@gmail.com" }
+4-5-2024 - E11000 duplicate key error collection: mcart-app.users index: mobileNo_1 dup key: { mobileNo: 8888888404.0 }
+4-5-2024 - E11000 duplicate key error collection: mcart-app.users index: username_1 dup key: { username: "BossIsher" }
+4-5-2024 - E11000 duplicate key error collection: mcart-app.users index: username_1 dup key: { username: "BossIsher" }
+4-5-2024 - E11000 duplicate key error collection: mcart-app.users index: username_1 dup key: { username: "BossIsher" }
+4-5-2024 - E11000 duplicate key error collection: mcart-app.users index: emailId_1 dup key: { emailId: "Bos@gmail.com" }
+4-5-2024 - E11000 duplicate key error collection: mcart-app.users index: mobileNo_1 dup key: { mobileNo: 8888988404.0 }
+4-5-2024 - User validation failed: password: Path `password` is required.
+4-5-2024 - User validation failed: password: Path `password` is required.
+4-5-2024 - User validation failed: password: Path `password` is required.
+4-5-2024 - passwrd is not defined
+4-5-2024 - E11000 duplicate key error collection: mcart-app.users index: emailId_1 dup key: { emailId: "Bds@gmail.com" }
+4-5-2024 - E11000 duplicate key error collection: mcart-app.users index: emailId_1 dup key: { emailId: "Bds@gmail.com" }
+4-5-2024 - E11000 duplicate key error collection: mcart-app.users index: emailId_1 dup key: { emailId: "Bds@gmail.com" }
+4-5-2024 - E11000 duplicate key error collection: mcart-app.users index: emailId_1 dup key: { emailId: "Bds@gmail.com" }
+4-5-2024 - Cannot read properties of null (reading '0')
+4-5-2024 - Cannot read properties of null (reading 'emailId')
+4-5-2024 - Cannot read properties of null (reading 'emailId')
+4-5-2024 - E11000 duplicate key error collection: mcart-app.users index: emailId_1 dup key: { emailId: "Bds@gmail.com" }
+5-5-2024 - Parameter "filter" to findOne() must be an object, got Boss@gmail.com
+5-5-2024 - Cannot read properties of null (reading 'password')
+5-5-2024 - Cannot read properties of null (reading 'password')
+5-5-2024 - Cannot read properties of null (reading 'password')
+5-5-2024 - comparePassword is not defined
+5-5-2024 - user is not defined
+5-5-2024 - Cannot read properties of null (reading 'password')
+5-5-2024 - secretOrPrivateKey must have a value
+5-5-2024 - secretOrPrivateKey must have a value

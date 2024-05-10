@@ -7,18 +7,16 @@ const userSchema = new mongoose.Schema({
   },
   username: {
     type: String,
-    unique: true,
-    required: true,
+    required: true
   },
   emailId: {
     type: String,
-    unique: true,
     required: true,
+    unique: true
   },
   mobileNo: {
     type: Number,
-    unique: true,
-    required: true,
+    required: true
   },
   role: {
     type: String,
